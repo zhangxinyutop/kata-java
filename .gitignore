@@ -1,4 +1,15 @@
 *.class
+/target
+*.swp
+tags
+.project
+.DS_Store
+**/target
+*.iml
+.idea/*
+*.sql.bak
+.settings
+.classpath
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
